@@ -1,12 +1,21 @@
 {
+  "name": "now-ab",
+  "description": "A simple simple proxy server to handle Now.sh deployments AB tests",
+  "main": "index.js",
+  "author": {
+    "name": "Sergio Daniel Xalambrí",
+    "url": "https://sergio.now.sh",
+    "email": "sergiodxa@gmail.com"
+  },
   "scripts": {
-    "start": "node index.js"
+    "start": "node ."
   },
   "dependencies": {
     "http-proxy": "^1.16.2",
     "now-env": "^1.4.0"
   },
   "now": {
+    "name": "now-ab",
     "env": [
       "TEST_A",
       "TEST_B"
