@@ -77,4 +77,5 @@ createServer((req, res) => {
     return process.exit(0);
   }
   console.log('A/B Test Server running on %s:%d', HOST, PORT);
+  console.log('Cases:', JSON.stringify(testCases, null, 2));
 });
