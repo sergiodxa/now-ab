@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.16.2",
+    "now-env": "^1.4.0"
+  },
+  "now": {
+    "env": [
+      "TEST_A",
+      "TEST_B"
+    ]
+  }
+}
