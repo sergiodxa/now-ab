@@ -1,6 +1,6 @@
 {
   "name": "now-ab",
-  "description": "A simple simple proxy server to handle Now.sh deployments AB tests",
+  "description": "A simple HTTP proxy server to handle Now.sh deployments AB tests",
   "main": "index.js",
   "author": {
     "name": "Sergio Daniel Xalambrí",

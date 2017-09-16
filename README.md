@@ -1,5 +1,5 @@
 # now-ab
-This a simple simple proxy server to handle [Now.sh](https://now.sh) deployments AB tests.
+This a simple HTTP proxy server to handle [Now.sh](https://now.sh) deployments AB tests.
 
 ## Usage
 Deploy it with
