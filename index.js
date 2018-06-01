@@ -1,4 +1,4 @@
-require('now-env').config();
+require('now-env');
 
 const { parse, format } = require('url');
 const { createServer } = require('http');
