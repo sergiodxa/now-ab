@@ -13,9 +13,9 @@ http-proxy@^1.16.2:
     eventemitter3 "1.x.x"
     requires-port "1.x.x"
 
-now-env@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/now-env/-/now-env-1.4.0.tgz#dd2dd9898e705058967ee58742b9b44fbf94c7f3"
+now-env@^3.0.0:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/now-env/-/now-env-3.0.4.tgz#f9ed88884bff8d208ad3eaf39cc3437dd1a591ad"
 
 requires-port@1.x.x:
   version "1.0.0"
