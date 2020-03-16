@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "http-proxy": "^1.16.2",
-    "now-env": "^3.0.0"
+    "now-env": "^3.2.0"
   },
   "now": {
     "name": "now-ab",
